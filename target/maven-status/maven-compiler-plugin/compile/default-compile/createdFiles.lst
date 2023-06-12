@@ -1,0 +1,5 @@
+com\ch\crudregistro\Conexion\Mysql.class
+com\ch\crudregistro\CAlumnos.class
+com\ch\crudregistro\FormAlumnos$1.class
+com\ch\crudregistro\FormAlumnos.class
+com\ch\crudregistro\CRUDRegistro.class
